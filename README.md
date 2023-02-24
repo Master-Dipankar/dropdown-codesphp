@@ -1,4 +1,4 @@
-# dropdown-codesphp
+# dropdown-codes-php
 #Simple php html js dropdown menu.
 
 
